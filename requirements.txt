@@ -39,8 +39,9 @@ tenacity
 tgcrypto-pyrofork
 urllib3
 uvicorn
+uv
 uvloop==0.21.0
 xattr
 yt-dlp[default,curl-cffi]
 parse-torrent-name
-megasdk
+mega
